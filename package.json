@@ -1,0 +1,24 @@
+{
+  "name": "coffe-shop-project",
+  "version": "1.0.0",
+  "description": "Team members:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonelahumada4633/Coffe-Shop-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leonelahumada4633/Coffe-Shop-Project/issues"
+  },
+  "homepage": "https://github.com/leonelahumada4633/Coffe-Shop-Project#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
